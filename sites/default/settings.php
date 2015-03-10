@@ -217,9 +217,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'drupal',
-      'username' => 'juntapq',
-      'password' => 'pagjpq2015',
+      'database' => 'selvaleg_parroquia',
+      'username' => 'selvaleg_jpq',
+      'password' => '12345BJPQ',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
